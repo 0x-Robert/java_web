@@ -1,0 +1,124 @@
+.wrap{
+    position: relative;
+    border: 15px solid #8bb9c6;
+    
+}
+
+#right{
+    border: 3px solid#8bb9c6;
+    box-sizing: border-box;
+    width:1800px;
+    height: 120px;
+    padding-top:50px;
+}
+
+#right > div {
+    
+ 
+    
+    
+    width:100px;
+    height: 30px;
+    text-align:center;
+    padding-top:12px;
+    padding-bottom: 12px;
+    
+    
+}
+
+.home{
+    border: 1px solid white;
+    position: absolute;
+    right:400px;
+    top:30px;
+    background-color:#8bb9c6;
+    border-right-width: 25px;
+    
+    
+}
+.aboutme{
+    border: 1px solid white;
+    position: absolute;
+    right:300px;
+    top:30px;
+    background-color: #8bb9c6;
+    border-right-width: 20px;
+}
+
+.photo{
+    border: 1px solid white;
+    position: absolute;
+    right:200px;
+    top:30px;
+    background-color:#8bb9c6;
+    border-right-width: 15px;
+}
+
+.time{
+    border: 1px solid white;
+    position: absolute;
+    right:100px;
+    top:30px;
+    background-color:#8bb9c6;
+    border-right-width: 10px; 
+   
+}
+
+
+
+.photo_class1{
+    
+    color:white;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:200px;
+    height: 200px;
+    padding:50px;
+    border:10px solid gray;
+    margin: 50px;
+
+}
+
+
+
+.photo_class2{
+    
+    color:white;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:200px;
+    height: 200px;
+    padding:50px;
+    border:10px solid gray;
+    margin: 50px;
+
+}
+
+
+.sec_1{
+    position: absolute;
+    top:150px;
+    left: 450px;
+
+}
+
+
+.sec_2{
+    position: absolute;
+    top:550px;
+    left: 450px;
+
+}
+
+.foot{
+    color: black;
+    text-align:center;
+    border: 3px solid gray;
+    box-sizing: border-box;
+    padding:80px;
+    
+}

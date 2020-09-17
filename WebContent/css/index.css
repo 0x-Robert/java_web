@@ -1,0 +1,124 @@
+.wrap{
+    position: relative;
+    border: 15px solid #8bb9c6;
+    
+}
+
+#right{
+    border: 3px solid#8bb9c6;
+    box-sizing: border-box;
+    width:1800px;
+    height: 120px;
+    padding-top:50px;
+}
+
+#right > div {
+    
+ 
+    
+    
+    width:100px;
+    height: 30px;
+    text-align:center;
+    padding-top:12px;
+    padding-bottom: 12px;
+    
+    
+}
+
+.home{
+    border: 1px solid white;
+    position: absolute;
+    right:400px;
+    top:30px;
+    background-color:#8bb9c6;
+    border-right-width: 25px;
+    
+    
+}
+.aboutme{
+    border: 1px solid white;
+    position: absolute;
+    right:300px;
+    top:30px;
+    background-color: #8bb9c6;
+    border-right-width: 20px;
+}
+
+.photo{
+    border: 1px solid white;
+    position: absolute;
+    right:200px;
+    top:30px;
+    background-color:#8bb9c6;
+    border-right-width: 15px;
+}
+
+.time{
+    border: 1px solid white;
+    position: absolute;
+    right:100px;
+    top:30px;
+    background-color:#8bb9c6;
+    border-right-width: 10px; 
+   
+}
+.about{
+    display : block;
+    position: static;
+}
+
+
+.relative{
+    position:relative;
+    left:10px;
+
+}
+
+#introduce{
+    padding-top:50px;
+    position: absolute;
+    right:720px;
+    width:90px;
+    height:90px;
+    background-color:#8bb9c6;
+    text-align:center;
+    color:white;
+    
+}
+
+#myphoto{
+    padding-top:50px;
+    position: absolute;
+    right:600px;
+    width:90px;
+    height:90px;
+    background-color:#8bb9c6;
+    text-align:center;
+    color:white;
+}
+
+
+#map{
+    /* bottom:400px; */
+    padding-top: 150px;
+    position: relative;
+    
+}
+
+
+.about{
+    text-align:center;
+    border: 1px solid white;
+    margin-top:100px;
+    padding-bottom:30px;
+}
+
+.foot{
+    color: black;
+    text-align:center;
+    border: 3px solid gray;
+    box-sizing: border-box;
+    padding:80px;
+    
+}
